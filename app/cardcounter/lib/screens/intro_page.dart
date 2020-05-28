@@ -3,6 +3,8 @@ import 'package:cardcounter/widgets/showup.dart';
 import 'package:flutter/material.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 
+import 'main_page.dart';
+
 class IntroPage extends StatelessWidget {
   static const String id = 'intro_page';
   @override
@@ -87,7 +89,7 @@ class IntroPage extends StatelessWidget {
                             padding: const EdgeInsets.all(16.0),
                             child: RaisedButton(
                               onPressed: () {
-                                // Navigator.push(context, FadeRoute(page: MainPage()));
+                                Navigator.push(context, FadeRoute(page: MainPage()));
                               },
                               color: Color(0xffff78ae),
                               elevation: 3,
