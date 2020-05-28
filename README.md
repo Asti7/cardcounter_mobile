@@ -1,3 +1,3 @@
-# cardcounrt_mobile
+# cardcounter_mobile
 
 Mobile build (app) for Card Counter.
