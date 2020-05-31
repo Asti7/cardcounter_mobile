@@ -1,6 +1,9 @@
 # Card Counter
 
 > Mobile build (app) for Card Counter.
+>
+>
+> <a href="https://apps.apple.com/app/id1515817037"><img src="https://github.com/Asti7/cardcounter_mobile/blob/master/app/cardcounter/screenshots/appstorebadge.png" height="50"/></a>
 
 ## Screenshots
 
