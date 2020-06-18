@@ -15,11 +15,13 @@ class Values {
     'Q'
   ];
 
-  List negativeOneValues = ['2', '3', '4', '5', '6'];
+  List negativeOneValues = ['10', 'A', 'J', 'K', 'Q'];
 
   List zeroValues = ['7', '8', '9'];
 
-  List positiveOneValues = ['10', 'A', 'J', 'K', 'Q'];
+  List positiveOneValues = ['2', '3', '4', '5', '6'];
 
   List cardTypes = ['C', 'D', 'H', 'S'];
 }
+
+
